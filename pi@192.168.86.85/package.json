@@ -1,9 +1,0 @@
-{
-  "name": "pi-camera",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "pi-camera-connect": "^0.3.0"
-  }
-}
