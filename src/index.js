@@ -1,5 +1,5 @@
-import { StillCamera } from 'pi-camera-connect';
-import * as fs from 'fs';
+const StillCamera = require('StillCamera');
+const fs = require('fs');
 
 const runApp = async () => {
     const stillCamera = new StillCamera;
